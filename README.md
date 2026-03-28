@@ -180,7 +180,7 @@ The solution is designed to support **data-driven decision-making**, enabling bu
 
 ## 🎥 Sample Demo Video
 
-
+https://github.com/user-attachments/assets/b1ccb87c-5fb2-49c9-b419-9c48ffab9ae2
 
 ## 📌 Project Highlights
 
