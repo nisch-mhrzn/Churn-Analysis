@@ -175,7 +175,7 @@ The solution is designed to support **data-driven decision-making**, enabling bu
 * ✔️ Trained **machine learning model**
 * ✔️ CSV file with **predicted churn customers**
 * ✔️ Actionable business insights for retention strategies
-
+<img width="2302" height="1322" alt="Image" src="https://github.com/user-attachments/assets/f8c520bd-1817-4f97-8f0d-3ce9c44810a0" />
 ---
 
 ## 🎥 Sample Demo Video
